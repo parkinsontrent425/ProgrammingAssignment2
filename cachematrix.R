@@ -1,6 +1,6 @@
 ## Since matrix inversion can be an expensive computation, especially when 
 ## used in loops. The following two functions cache the inverse of a matrix
-## thus reducing the cost of repeatedly computing.
+## thus reducing the cost of repeatedly computing. 
 
 ## Creates a special matrix object that can cache its inverse
 
